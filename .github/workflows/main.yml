@@ -5,7 +5,7 @@ on:
       - master
 jobs:
   deploy:
-    name: MariVODm1
+    name: marivdeoliveiradm1
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
